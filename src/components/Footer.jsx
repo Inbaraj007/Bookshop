@@ -16,7 +16,7 @@ export const Footer = () => {
 
 
 <div className="row">
-© 2024 All rights reserved || Designed By: MAK 
+© 2024 All rights reserved || Designed By: Inbaraj 
 </div>
 </div>
 </footer>
